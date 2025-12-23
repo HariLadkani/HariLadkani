@@ -4,6 +4,6 @@
 
 - 💻 Building backend systems, distributed architectures, and scalable data pipelines
 - 🛠 Python, Java, SQL, AWS, Spark, REST APIs, Microservices
-- 💼 Internships: FMC Corporation & Resolution Life US
+- 💼 Internships: FMC Corporation & Resolution Life
 - 📈 Passionate about solving real-world problems with robust software and data solutions
 - 🌐 Portfolio: [harilal-portfolio.vercel.app](https://harilal-portfolio.vercel.app)
